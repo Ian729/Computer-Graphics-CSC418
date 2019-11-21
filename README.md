@@ -28,12 +28,12 @@ Results
 shader-pipeline: Assignment 6: Shader Pipeline  
 Thursday, November 15, 2018, 11:59:00 PM  
 Your mark: 100.0% (Class average: 85.4%)  
-  
+https://github.com/Ian729/computer-graphics-shader-pipeline  
 Results  
 kinematics: Assignment 7: Kinematics  
 Wednesday, November 21, 2018, 11:59:00 PM  
 Your mark: 100.0% (Class average: 69.4%)  
-  
+https://github.com/Ian729/computer-graphics-kinematics  
 Results  
 final-image-competition: Assignment 8: Final Image Competition  
 Monday, December 03, 2018, 11:59:00 PM  
