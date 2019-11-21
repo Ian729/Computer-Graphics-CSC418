@@ -1,5 +1,6 @@
 # Computer-Graphics-CSC418  
 CSC418/CSC2504 Fall 2018  
+## All PRIVATE Repositories since these homeworks are still in use
 raster-images: Assignment 1: Raster Images  
 Friday, September 21, 2018, 11:59:00 PM  
 Your mark: 100.0% (Class average: 90.4%)  
