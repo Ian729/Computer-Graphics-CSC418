@@ -1,5 +1,7 @@
 # Computer-Graphics-CSC418  
 CSC418/CSC2504 Fall 2018  
+https://github.com/alecjacobson/computer-graphics-csc418  
+
 ## All PRIVATE Repositories since these homeworks are still in use
 raster-images: Assignment 1: Raster Images  
 Friday, September 21, 2018, 11:59:00 PM  
